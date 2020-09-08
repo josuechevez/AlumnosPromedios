@@ -1,0 +1,11 @@
+.formulario{
+    display: flex;
+    flex-direction: column;
+
+    padding-left: 100px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    justify-content: center;
+    align-content: center;
+}
